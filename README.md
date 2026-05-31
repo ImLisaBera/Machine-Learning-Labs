@@ -1,4 +1,4 @@
-# Machine Learning Labs & Portfolio
+# Machine Learning Labs & Portfolio (OPEN IN COLAB NOTEBOOK)
 
 This repository contains practical implementations and conceptual evaluations of foundational machine learning algorithms. Projects are built from scratch and optimized using `scikit-learn`.
 
